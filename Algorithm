@@ -1,0 +1,7 @@
+Algorithm:
+1. Initialize two variables, maxElement and minElement, to hold the maximum and minimum values.
+2. Set maxElement to the first element of the array and minElement to the first element.
+3. Loop through the array:
+* If the current element is greater than maxElement, update maxElement.
+* If the current element is smaller than minElement, update minElement.
+4. After the loop, maxElement will hold the maximum value and minElement will hold the minimum value.
